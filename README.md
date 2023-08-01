@@ -1,2 +1,2 @@
 # blog
-Responsive Blog Website
+Responsive Blog Template
